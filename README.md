@@ -1,2 +1,3 @@
 # Python
-Python Projects 
+Python applications
+
